@@ -1,2 +1,5 @@
-hi i want to say hello
+#!/bin/bash
+git add .
+git commit -m "my first work"
+git push 
 
