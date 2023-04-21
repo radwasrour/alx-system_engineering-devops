@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "write the file name"
+chmod u+x  
+git add .
+echo "write the commit"
+git commit -m ""
+git push
